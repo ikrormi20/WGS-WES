@@ -1,0 +1,8 @@
+samtools
+bcftools
+bedtools
+picard-tools-1.141
+bwa
+gatk 3.5
+annovar
+perl
