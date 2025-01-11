@@ -5,5 +5,5 @@ This pipeline takes fastq files, preprocesses and maps to human hg19 genome, run
 Note: Input files are fastq files, and specify respective bed file for whole exome. Bed file is not required for WGS.
 
 Usage:
-#Execute the job in background#
-nohup sh filename.sh &
+
+./wgs-wes.sh
